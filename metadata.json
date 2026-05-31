@@ -1,0 +1,6 @@
+{
+  "name": "Spicy Bawarchi",
+  "description": "Ultra-Premium Luxury Indian Restaurant Website for Spicy Bawarchi. Every Bite Tells A Story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
