@@ -30,7 +30,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&q=80&w=600',
     description: 'Succulent paneer cooked beautifully with caramelized pearl onions and spring greens in a spicy, semi-dry aromatic onion gravy.'
   },
   {
@@ -92,7 +92,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=600',
     description: 'A vibrant kaleidoscope of seasonal vegetables including baby corn, carrots, beans, and cauliflower wok-tossed with local garden herbs.'
   },
   {
@@ -102,7 +102,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.8,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&q=80&w=600',
     description: 'Exquisite mélange of choice premium vegetables topped with deep-fried dry fruits, golden paneer cubes, and a splash of pure fresh cream.',
     popular: true
   },
@@ -124,7 +124,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.4,
-    image: 'https://images.unsplash.com/photo-1518013041206-a0f538c26306?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=600',
     description: 'Country-style tender potatoes pan-fried with pearl shallots and dynamic Indian master-blends for a crisp, delicious dry item.'
   },
   {
@@ -144,7 +144,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.3,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=600',
     description: 'Fresh chunky potatoes flash-cooked in a heavy iron skillet with ground red chillies, dry mango, and fragrant coriander seeds.'
   },
   {
@@ -154,7 +154,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&q=80&w=600',
     description: 'Stir-fried farm fresh juliennes of vegetables cooked in a spicy-sweet tang of tomatoes and hand-roasted country vinegars.'
   },
   {
@@ -184,7 +184,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=600',
     description: 'Fresh select mushrooms wok-tossed with crushed peppercorns, bell peppers, ginger strips, and fiery Kadhai masala.'
   },
   {
@@ -215,7 +215,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=600',
     description: 'Sautéed premium button mushrooms prepared with twice-added sweet red onions and finished with delicate garden herbs.'
   },
 
@@ -315,7 +315,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Appetizers', // We put it under appetizers or we map it elegantly
     isVeg: true,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=600',
     description: 'Daring spicy-sour velvety broth loaded with shredded peppers, carrots, ginger, and rich wild chili vinegar.'
   },
   {
@@ -325,7 +325,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Appetizers',
     isVeg: true,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=600',
     description: 'Rich dark soy broth infused with fresh minced garlic, ginger, spring greens, served with crunchy crisp-fried noodles.'
   },
 
@@ -337,7 +337,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Beverages',
     isVeg: true,
     rating: 4.9,
-    image: 'https://images.unsplash.com/photo-1518013041206-a0f538c26306?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1616118132534-381148898bb4?auto=format&fit=crop&q=80&w=600',
     description: 'Ice chilled premium packaged drinking water for pure hydration.'
   },
   {
@@ -465,7 +465,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables', // We can map this to vegetables or list directly, wait Categories has to match Categories list.
     isVeg: true,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&q=80&w=600',
     description: 'Sweet baby corn kernels tossed in tempura batter and deep-fried to crisp perfection, dusted with aromatic peppers.'
   },
   {
@@ -475,7 +475,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&q=80&w=600',
     description: 'Sautéed baby corn fingers cooked beautifully in a fiery dark soy sauce, loaded with fresh minced garlic and spring peppers.'
   },
   {
@@ -485,7 +485,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.5,
-    image: 'https://images.unsplash.com/photo-1518013041206-a0f538c26306?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&q=80&w=600',
     description: 'Crisp golden potato chips stir-fried in a rich Indo-Chinese glaze with scallions and crushed red chillies.'
   },
   {
@@ -495,7 +495,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1518013041206-a0f538c26306?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&q=80&w=600',
     description: 'Signature crispy potatoes glazed with organic wild honey, toasted sesame seeds, and light tangy ginger sauce.'
   },
   {
@@ -505,7 +505,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.4,
-    image: 'https://images.unsplash.com/photo-1518013041206-a0f538c26306?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&q=80&w=600',
     description: 'Extremely thin and crispy hand-cut premium potato straws tossed with dry spice mix and refreshing chives.'
   },
   {
@@ -536,7 +536,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=600',
     description: 'Fresh plump button mushrooms battered and sautéed with thick capsicums in dynamic dark garlic pepper soy.'
   },
   {
@@ -546,7 +546,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Vegetables',
     isVeg: true,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&q=80&w=600',
     description: 'Delicate vegetable density rounds pan-cooked in an absolute classic spicy-sweet dark soy-cilantro coriander broth.',
     popular: true
   },
@@ -667,7 +667,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Dal',
     isVeg: true,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&q=80&w=600',
     description: 'Yellow lentils whipped smooth, tempered with heated mustard oil, toasted cumin seeds, sweet red onions and coriander.'
   },
   {
@@ -677,7 +677,7 @@ export const MENU_ITEMS: MenuItem[] = [
     category: 'Dal',
     isVeg: true,
     rating: 4.8,
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&q=80&w=600',
     description: 'Opulent split yellow peas tempered with hot charcoal ghee, dynamic master spices, fiery red whole chillies and garlic.',
     popular: true
   },
@@ -862,37 +862,37 @@ export const GALLERY_ITEMS: GalleryItem[] = [
 
 export const PARTY_SERVICES = [
   {
-    icon: '🎂',
+    image: 'https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&q=80&w=600',
     title: 'Birthday Party',
     tagline: 'Make milestones unforgettable',
     description: 'Curated royal menus, modern ambient balloon displays, and luxury custom cake coordinates for all age groups.'
   },
   {
-    icon: '💍',
+    image: 'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&q=80&w=600',
     title: 'Anniversary Party',
     tagline: 'Celebrate eternal unions',
     description: 'Immersive candlelight setups, classic romantic live slow-instrumentals, and signature multi-course banquets.'
   },
   {
-    icon: '👰',
+    image: 'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=600',
     title: 'Wedding Function',
     tagline: 'Grand royal luxury weddings',
     description: 'Magnificent bridal catering, luxury thematic catering, live bawarchi counters, and world-class hospitality.'
   },
   {
-    icon: '🎉',
+    image: 'https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&q=80&w=600',
     title: 'Engagement Party',
     tagline: 'Elegant rings celebration',
     description: 'Pre-wedding celebrations with personalized setups, fine cocktail snacks, and dramatic entry sequences.'
   },
   {
-    icon: '🏢',
+    image: 'https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&q=80&w=600',
     title: 'Corporate Event',
     tagline: 'Sophisticated brand banquets',
     description: 'High-speed internet lounge setups, projection-aligned buffets, and sophisticated clean vegetarian arrangements.'
   },
   {
-    icon: '👨👩👧',
+    image: 'https://images.unsplash.com/photo-1543807535-eceef0bc6599?auto=format&fit=crop&q=80&w=600',
     title: 'Family Gathering',
     tagline: 'Warm cultural reunions',
     description: 'Spacious child-safe seating arrangements, multi-generational menus, and infinite traditional tea elements.'

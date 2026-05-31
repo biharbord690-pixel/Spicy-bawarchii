@@ -3,7 +3,7 @@ import { MapPin, Phone, Clock, Compass, MessageSquare, Sparkles } from 'lucide-r
 export default function InfoSection() {
   const addressDetails = {
     name: 'SPICY BAWARCHI',
-    tagline: 'Every Bite Tells A Story',
+    tagline: 'FAMILY AC RESTAURANT',
     street: 'Near Forbesganj College Flyover,',
     landmark: 'In Front of Sant Nirankari Satsang Bhawan,',
     cityState: 'Forbesganj, Bihar 854318',

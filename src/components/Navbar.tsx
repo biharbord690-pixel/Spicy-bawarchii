@@ -32,8 +32,8 @@ export default function Navbar({ activeSection, setActiveSection, cartCount, onC
             <h2 className="font-serif text-xl tracking-wider font-bold text-white leading-none">
               SPICY <span className="text-luxury-orange">BAWARCHI</span>
             </h2>
-            <p className="font-sans text-[8px] tracking-[0.25em] text-luxury-gold uppercase mt-0.5 font-semibold">
-              Every Bite Tells A Story
+            <p className="font-sans text-[8px] tracking-[0.25em] text-luxury-gold uppercase mt-0.5 font-bold">
+              FAMILY AC RESTAURANT
             </p>
           </div>
         </div>

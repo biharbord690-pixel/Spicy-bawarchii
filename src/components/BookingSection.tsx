@@ -83,7 +83,7 @@ Please check the availability. Thank you!`;
             onClick={() => handleInputChange('eventType', serv.title)}
             className={`group cursor-pointer rounded-2xl p-6 transition-all duration-500 transform hover:-translate-y-1.5 relative overflow-hidden flex flex-col justify-between border ${
               formData.eventType === serv.title
-                ? 'bg-gradient-to-r from-neutral-950 to-neutral-900 border-luxury-orange shadow-[0_15px_35px_rgba(255,107,0,0.15)]'
+                ? 'bg-gradient-to-r from-neutral-950 to-[#0e0e0e] border-luxury-orange shadow-[0_15px_35px_rgba(255,107,0,0.15)]'
                 : 'bg-white/[0.01] border-white/5 hover:border-white/15'
             }`}
           >
@@ -93,9 +93,17 @@ Please check the availability. Thank you!`;
             )}
 
             <div>
-              <div className="text-3xl mb-4 transform group-hover:scale-110 transition-transform duration-300">
-                {serv.icon}
+              {/* Premium Image instead of emoji */}
+              <div className="relative aspect-[16/10] overflow-hidden rounded-xl mb-5 border border-white/5 shadow-md">
+                <img
+                  src={serv.image}
+                  alt={serv.title}
+                  className="w-full h-full object-cover brightness-[0.75] group-hover:scale-105 transition-all duration-700 ease-out"
+                  referrerPolicy="no-referrer"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-neutral-950 via-transparent to-transparent" />
               </div>
+
               <h3 className="font-serif text-xl text-white font-medium mb-1 tracking-wide group-hover:text-luxury-orange transition-colors">
                 {serv.title}
               </h3>
@@ -109,7 +117,7 @@ Please check the availability. Thank you!`;
 
             <div className="mt-6 flex justify-end">
               <span className={`text-[10px] uppercase font-mono tracking-widest leading-none ${
-                formData.eventType === serv.title ? 'text-luxury-gold' : 'text-white/20 group-hover:text-white/40'
+                formData.eventType === serv.title ? 'text-luxury-gold font-bold' : 'text-white/20 group-hover:text-white/40'
               }`}>
                 {formData.eventType === serv.title ? '● Selected Category' : 'Select Service'}
               </span>

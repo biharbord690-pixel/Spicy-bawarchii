@@ -10,6 +10,7 @@ import InfoSection from './components/InfoSection';
 import GallerySection from './components/GallerySection';
 import CartOverlay from './components/CartOverlay';
 import { MenuItem, CartItem, ActiveSection } from './types';
+import FloatingActions from './components/FloatingActions';
 
 export default function App() {
   const [loading, setLoading] = useState(true);
@@ -132,6 +133,9 @@ export default function App() {
               onCartToggle={() => setCartOpen(true)}
             />
 
+            {/* Quick connect floating buttons for WhatsApp and Direct Calls */}
+            <FloatingActions />
+
             {/* Current Active Layout View */}
             <main className="flex-grow">
               <AnimatePresence mode="wait">
@@ -163,7 +167,7 @@ export default function App() {
                   <h3 className="font-serif text-lg tracking-wider font-semibold text-white">
                     SPICY <span className="text-luxury-orange">BAWARCHI</span>
                   </h3>
-                  <p className="font-serif italic text-xs text-luxury-gold/75 mt-1">&ldquo;Every Bite Tells A Story&rdquo;</p>
+                  <p className="font-serif italic text-xs text-luxury-gold/75 mt-1">&ldquo;FAMILY AC RESTAURANT&rdquo;</p>
                   <p className="text-[10px] text-white/30 font-sans mt-3">
                     © 2026 Spicy Bawarchi Fine Indian dining. All Rights Reserved.
                   </p>
